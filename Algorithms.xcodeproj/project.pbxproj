@@ -8,6 +8,49 @@
 
 /* Begin PBXBuildFile section */
 		D320D2821F2CAC500022A341 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2811F2CAC500022A341 /* main.m */; };
+		D320D28B1F2CB1240022A341 /* LinkedList.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D28A1F2CB1240022A341 /* LinkedList.m */; };
+		D320D28E1F2CB1510022A341 /* LinkedListElem.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D28D1F2CB1510022A341 /* LinkedListElem.m */; };
+		D320D2991F2CBFF40022A341 /* UnitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2981F2CBFF40022A341 /* UnitTest.m */; };
+		D320D29E1F2CBFFB0022A341 /* LinkedListTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2901F2CBF4A0022A341 /* LinkedListTest.m */; };
+		D320D29F1F2CC4150022A341 /* LinkedListElem.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D28D1F2CB1510022A341 /* LinkedListElem.m */; };
+		D320D2A01F2CC41D0022A341 /* LinkedList.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D28A1F2CB1240022A341 /* LinkedList.m */; };
+		D320D2A41F2CCBD50022A341 /* Stack.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2A31F2CCBD50022A341 /* Stack.m */; };
+		D320D2A51F2CCBD50022A341 /* Stack.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2A31F2CCBD50022A341 /* Stack.m */; };
+		D320D2A91F2CD0510022A341 /* StackElem.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2A81F2CD0510022A341 /* StackElem.m */; };
+		D320D2AA1F2CD0510022A341 /* StackElem.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2A81F2CD0510022A341 /* StackElem.m */; };
+		D320D2AD1F2CDCAA0022A341 /* StackTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2AC1F2CDCAA0022A341 /* StackTest.m */; };
+		D320D2B11F2CF8360022A341 /* BinaryTree.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2B01F2CF8360022A341 /* BinaryTree.m */; };
+		D320D2B41F2CF8480022A341 /* BinaryTreeNode.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2B31F2CF8480022A341 /* BinaryTreeNode.m */; };
+		D320D2B51F2D2B0D0022A341 /* BinaryTree.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2B01F2CF8360022A341 /* BinaryTree.m */; };
+		D320D2B61F2D2B110022A341 /* BinaryTreeNode.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2B31F2CF8480022A341 /* BinaryTreeNode.m */; };
+		D320D2B91F2D2BE40022A341 /* BinaryTreeTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2B81F2D2BE40022A341 /* BinaryTreeTest.m */; };
+		D320D2C21F2E0FEE0022A341 /* FirstNonRepeatedCharacter.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2C11F2E0FEE0022A341 /* FirstNonRepeatedCharacter.m */; };
+		D320D2C31F2E0FEE0022A341 /* FirstNonRepeatedCharacter.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2C11F2E0FEE0022A341 /* FirstNonRepeatedCharacter.m */; };
+		D320D2C61F2E1D810022A341 /* BoxedUniChar.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2C51F2E1D810022A341 /* BoxedUniChar.m */; };
+		D320D2C71F2E1D810022A341 /* BoxedUniChar.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2C51F2E1D810022A341 /* BoxedUniChar.m */; };
+		D320D2CA1F2E2DFC0022A341 /* FirstNonRepeatedCharachterTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2C91F2E2DFC0022A341 /* FirstNonRepeatedCharachterTest.m */; };
+		D320D2D01F2E374D0022A341 /* RemoveFromString.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2CF1F2E374D0022A341 /* RemoveFromString.m */; };
+		D320D2D11F2E374D0022A341 /* RemoveFromString.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2CF1F2E374D0022A341 /* RemoveFromString.m */; };
+		D320D2D31F2E3D7F0022A341 /* TestRemoveFromString.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2D21F2E3D7F0022A341 /* TestRemoveFromString.m */; };
+		D320D2D61F2E5AD40022A341 /* StringToInteger.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2D51F2E5AD40022A341 /* StringToInteger.m */; };
+		D320D2D71F2E5AD40022A341 /* StringToInteger.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2D51F2E5AD40022A341 /* StringToInteger.m */; };
+		D320D2D91F2E5D3E0022A341 /* StringToIntegerTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2D81F2E5D3E0022A341 /* StringToIntegerTest.m */; };
+		D320D2DC1F2E76950022A341 /* Factorial.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2DB1F2E76950022A341 /* Factorial.m */; };
+		D320D2DD1F2E76950022A341 /* Factorial.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2DB1F2E76950022A341 /* Factorial.m */; };
+		D320D2DF1F2E77100022A341 /* FactorialTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2DE1F2E77100022A341 /* FactorialTest.m */; };
+		D320D2E21F2E78970022A341 /* BinarySearch.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2E11F2E78970022A341 /* BinarySearch.m */; };
+		D320D2E31F2E78970022A341 /* BinarySearch.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2E11F2E78970022A341 /* BinarySearch.m */; };
+		D320D2E51F2E7B2C0022A341 /* BinarySearchTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2E41F2E7B2C0022A341 /* BinarySearchTest.m */; };
+		D320D2E81F2FB6170022A341 /* StringPermutations.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2E71F2FB6170022A341 /* StringPermutations.m */; };
+		D320D2E91F2FB6170022A341 /* StringPermutations.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2E71F2FB6170022A341 /* StringPermutations.m */; };
+		D320D2F61F2FBD980022A341 /* StringPermutationTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2F41F2FBD980022A341 /* StringPermutationTest.m */; };
+		D320D2FF1F30BA220022A341 /* TestStringPermutation.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D2FE1F30BA220022A341 /* TestStringPermutation.m */; };
+		D320D3021F30C5930022A341 /* QuickSort.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D3011F30C5930022A341 /* QuickSort.m */; };
+		D320D3031F30C5930022A341 /* QuickSort.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D3011F30C5930022A341 /* QuickSort.m */; };
+		D320D3061F30F1BF0022A341 /* QuickSortTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D3041F30F1BF0022A341 /* QuickSortTest.m */; };
+		D320D3091F3103290022A341 /* MergeTwoLists.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D3081F3103280022A341 /* MergeTwoLists.m */; };
+		D320D30A1F3103290022A341 /* MergeTwoLists.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D3081F3103280022A341 /* MergeTwoLists.m */; };
+		D320D30C1F3103F70022A341 /* MergeTwoListsTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D320D30B1F3103F70022A341 /* MergeTwoListsTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,10 +68,63 @@
 /* Begin PBXFileReference section */
 		D320D27E1F2CAC500022A341 /* Algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		D320D2811F2CAC500022A341 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D320D2891F2CB1240022A341 /* LinkedList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinkedList.h; sourceTree = "<group>"; };
+		D320D28A1F2CB1240022A341 /* LinkedList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LinkedList.m; sourceTree = "<group>"; };
+		D320D28C1F2CB1510022A341 /* LinkedListElem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinkedListElem.h; sourceTree = "<group>"; };
+		D320D28D1F2CB1510022A341 /* LinkedListElem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LinkedListElem.m; sourceTree = "<group>"; };
+		D320D2901F2CBF4A0022A341 /* LinkedListTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LinkedListTest.m; sourceTree = "<group>"; };
+		D320D2961F2CBFF40022A341 /* UnitTest.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnitTest.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D320D2981F2CBFF40022A341 /* UnitTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UnitTest.m; sourceTree = "<group>"; };
+		D320D29A1F2CBFF40022A341 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D320D2A21F2CCBD50022A341 /* Stack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Stack.h; sourceTree = "<group>"; };
+		D320D2A31F2CCBD50022A341 /* Stack.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Stack.m; sourceTree = "<group>"; };
+		D320D2A61F2CCCA60022A341 /* IStack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IStack.h; sourceTree = "<group>"; };
+		D320D2A71F2CD0510022A341 /* StackElem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StackElem.h; sourceTree = "<group>"; };
+		D320D2A81F2CD0510022A341 /* StackElem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StackElem.m; sourceTree = "<group>"; };
+		D320D2AC1F2CDCAA0022A341 /* StackTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StackTest.m; sourceTree = "<group>"; };
+		D320D2AF1F2CF8360022A341 /* BinaryTree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BinaryTree.h; sourceTree = "<group>"; };
+		D320D2B01F2CF8360022A341 /* BinaryTree.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BinaryTree.m; sourceTree = "<group>"; };
+		D320D2B21F2CF8480022A341 /* BinaryTreeNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BinaryTreeNode.h; sourceTree = "<group>"; };
+		D320D2B31F2CF8480022A341 /* BinaryTreeNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BinaryTreeNode.m; sourceTree = "<group>"; };
+		D320D2B81F2D2BE40022A341 /* BinaryTreeTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BinaryTreeTest.m; sourceTree = "<group>"; };
+		D320D2C01F2E0FEE0022A341 /* FirstNonRepeatedCharacter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstNonRepeatedCharacter.h; sourceTree = "<group>"; };
+		D320D2C11F2E0FEE0022A341 /* FirstNonRepeatedCharacter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstNonRepeatedCharacter.m; sourceTree = "<group>"; };
+		D320D2C41F2E1D810022A341 /* BoxedUniChar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BoxedUniChar.h; sourceTree = "<group>"; };
+		D320D2C51F2E1D810022A341 /* BoxedUniChar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BoxedUniChar.m; sourceTree = "<group>"; };
+		D320D2C91F2E2DFC0022A341 /* FirstNonRepeatedCharachterTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstNonRepeatedCharachterTest.m; sourceTree = "<group>"; };
+		D320D2CE1F2E374D0022A341 /* RemoveFromString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RemoveFromString.h; sourceTree = "<group>"; };
+		D320D2CF1F2E374D0022A341 /* RemoveFromString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RemoveFromString.m; sourceTree = "<group>"; };
+		D320D2D21F2E3D7F0022A341 /* TestRemoveFromString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestRemoveFromString.m; sourceTree = "<group>"; };
+		D320D2D41F2E5AD40022A341 /* StringToInteger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StringToInteger.h; sourceTree = "<group>"; };
+		D320D2D51F2E5AD40022A341 /* StringToInteger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StringToInteger.m; sourceTree = "<group>"; };
+		D320D2D81F2E5D3E0022A341 /* StringToIntegerTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StringToIntegerTest.m; sourceTree = "<group>"; };
+		D320D2DA1F2E76950022A341 /* Factorial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Factorial.h; sourceTree = "<group>"; };
+		D320D2DB1F2E76950022A341 /* Factorial.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Factorial.m; sourceTree = "<group>"; };
+		D320D2DE1F2E77100022A341 /* FactorialTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FactorialTest.m; sourceTree = "<group>"; };
+		D320D2E01F2E78970022A341 /* BinarySearch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BinarySearch.h; sourceTree = "<group>"; };
+		D320D2E11F2E78970022A341 /* BinarySearch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BinarySearch.m; sourceTree = "<group>"; };
+		D320D2E41F2E7B2C0022A341 /* BinarySearchTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BinarySearchTest.m; sourceTree = "<group>"; };
+		D320D2E61F2FB6170022A341 /* StringPermutations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StringPermutations.h; sourceTree = "<group>"; };
+		D320D2E71F2FB6170022A341 /* StringPermutations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StringPermutations.m; sourceTree = "<group>"; };
+		D320D2F41F2FBD980022A341 /* StringPermutationTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StringPermutationTest.m; sourceTree = "<group>"; };
+		D320D2FE1F30BA220022A341 /* TestStringPermutation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestStringPermutation.m; sourceTree = "<group>"; };
+		D320D3001F30C5930022A341 /* QuickSort.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuickSort.h; sourceTree = "<group>"; };
+		D320D3011F30C5930022A341 /* QuickSort.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuickSort.m; sourceTree = "<group>"; };
+		D320D3041F30F1BF0022A341 /* QuickSortTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuickSortTest.m; sourceTree = "<group>"; };
+		D320D3071F3103280022A341 /* MergeTwoLists.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MergeTwoLists.h; sourceTree = "<group>"; };
+		D320D3081F3103280022A341 /* MergeTwoLists.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MergeTwoLists.m; sourceTree = "<group>"; };
+		D320D30B1F3103F70022A341 /* MergeTwoListsTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MergeTwoListsTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		D320D27B1F2CAC500022A341 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D320D2931F2CBFF40022A341 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,6 +138,7 @@
 			isa = PBXGroup;
 			children = (
 				D320D2801F2CAC500022A341 /* Algorithms */,
+				D320D2971F2CBFF40022A341 /* UnitTest */,
 				D320D27F1F2CAC500022A341 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,6 +147,7 @@
 			isa = PBXGroup;
 			children = (
 				D320D27E1F2CAC500022A341 /* Algorithms */,
+				D320D2961F2CBFF40022A341 /* UnitTest.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -57,9 +155,125 @@
 		D320D2801F2CAC500022A341 /* Algorithms */ = {
 			isa = PBXGroup;
 			children = (
+				D320D2BF1F2E0EEF0022A341 /* Problems */,
+				D320D2AE1F2CF8230022A341 /* Trees */,
+				D320D2A11F2CC9B20022A341 /* Stacks */,
+				D320D2881F2CB0FD0022A341 /* LinkedLists */,
 				D320D2811F2CAC500022A341 /* main.m */,
 			);
 			path = Algorithms;
+			sourceTree = "<group>";
+		};
+		D320D2881F2CB0FD0022A341 /* LinkedLists */ = {
+			isa = PBXGroup;
+			children = (
+				D320D28F1F2CBF150022A341 /* Tests */,
+				D320D2891F2CB1240022A341 /* LinkedList.h */,
+				D320D28A1F2CB1240022A341 /* LinkedList.m */,
+				D320D28C1F2CB1510022A341 /* LinkedListElem.h */,
+				D320D28D1F2CB1510022A341 /* LinkedListElem.m */,
+			);
+			name = LinkedLists;
+			sourceTree = "<group>";
+		};
+		D320D28F1F2CBF150022A341 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				D320D2901F2CBF4A0022A341 /* LinkedListTest.m */,
+			);
+			name = Tests;
+			sourceTree = "<group>";
+		};
+		D320D2971F2CBFF40022A341 /* UnitTest */ = {
+			isa = PBXGroup;
+			children = (
+				D320D2981F2CBFF40022A341 /* UnitTest.m */,
+				D320D29A1F2CBFF40022A341 /* Info.plist */,
+			);
+			path = UnitTest;
+			sourceTree = "<group>";
+		};
+		D320D2A11F2CC9B20022A341 /* Stacks */ = {
+			isa = PBXGroup;
+			children = (
+				D320D2AB1F2CDC940022A341 /* Tests */,
+				D320D2A21F2CCBD50022A341 /* Stack.h */,
+				D320D2A31F2CCBD50022A341 /* Stack.m */,
+				D320D2A61F2CCCA60022A341 /* IStack.h */,
+				D320D2A71F2CD0510022A341 /* StackElem.h */,
+				D320D2A81F2CD0510022A341 /* StackElem.m */,
+			);
+			name = Stacks;
+			sourceTree = "<group>";
+		};
+		D320D2AB1F2CDC940022A341 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				D320D2AC1F2CDCAA0022A341 /* StackTest.m */,
+			);
+			name = Tests;
+			sourceTree = "<group>";
+		};
+		D320D2AE1F2CF8230022A341 /* Trees */ = {
+			isa = PBXGroup;
+			children = (
+				D320D2B71F2D2B460022A341 /* Tests */,
+				D320D2AF1F2CF8360022A341 /* BinaryTree.h */,
+				D320D2B01F2CF8360022A341 /* BinaryTree.m */,
+				D320D2B21F2CF8480022A341 /* BinaryTreeNode.h */,
+				D320D2B31F2CF8480022A341 /* BinaryTreeNode.m */,
+			);
+			name = Trees;
+			sourceTree = "<group>";
+		};
+		D320D2B71F2D2B460022A341 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				D320D2B81F2D2BE40022A341 /* BinaryTreeTest.m */,
+			);
+			name = Tests;
+			sourceTree = "<group>";
+		};
+		D320D2BF1F2E0EEF0022A341 /* Problems */ = {
+			isa = PBXGroup;
+			children = (
+				D320D2C81F2E2DE20022A341 /* Tests */,
+				D320D2C01F2E0FEE0022A341 /* FirstNonRepeatedCharacter.h */,
+				D320D2C11F2E0FEE0022A341 /* FirstNonRepeatedCharacter.m */,
+				D320D2C41F2E1D810022A341 /* BoxedUniChar.h */,
+				D320D2C51F2E1D810022A341 /* BoxedUniChar.m */,
+				D320D2D41F2E5AD40022A341 /* StringToInteger.h */,
+				D320D2D51F2E5AD40022A341 /* StringToInteger.m */,
+				D320D2DA1F2E76950022A341 /* Factorial.h */,
+				D320D2DB1F2E76950022A341 /* Factorial.m */,
+				D320D2E01F2E78970022A341 /* BinarySearch.h */,
+				D320D2E11F2E78970022A341 /* BinarySearch.m */,
+				D320D2E61F2FB6170022A341 /* StringPermutations.h */,
+				D320D2E71F2FB6170022A341 /* StringPermutations.m */,
+				D320D3001F30C5930022A341 /* QuickSort.h */,
+				D320D3011F30C5930022A341 /* QuickSort.m */,
+				D320D3071F3103280022A341 /* MergeTwoLists.h */,
+				D320D3081F3103280022A341 /* MergeTwoLists.m */,
+			);
+			name = Problems;
+			sourceTree = "<group>";
+		};
+		D320D2C81F2E2DE20022A341 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				D320D2C91F2E2DFC0022A341 /* FirstNonRepeatedCharachterTest.m */,
+				D320D2CE1F2E374D0022A341 /* RemoveFromString.h */,
+				D320D2CF1F2E374D0022A341 /* RemoveFromString.m */,
+				D320D2D21F2E3D7F0022A341 /* TestRemoveFromString.m */,
+				D320D2D81F2E5D3E0022A341 /* StringToIntegerTest.m */,
+				D320D2DE1F2E77100022A341 /* FactorialTest.m */,
+				D320D2E41F2E7B2C0022A341 /* BinarySearchTest.m */,
+				D320D2F41F2FBD980022A341 /* StringPermutationTest.m */,
+				D320D2FE1F30BA220022A341 /* TestStringPermutation.m */,
+				D320D3041F30F1BF0022A341 /* QuickSortTest.m */,
+				D320D30B1F3103F70022A341 /* MergeTwoListsTest.m */,
+			);
+			name = Tests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -82,6 +296,23 @@
 			productReference = D320D27E1F2CAC500022A341 /* Algorithms */;
 			productType = "com.apple.product-type.tool";
 		};
+		D320D2951F2CBFF40022A341 /* UnitTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D320D29B1F2CBFF40022A341 /* Build configuration list for PBXNativeTarget "UnitTest" */;
+			buildPhases = (
+				D320D2921F2CBFF40022A341 /* Sources */,
+				D320D2931F2CBFF40022A341 /* Frameworks */,
+				D320D2941F2CBFF40022A341 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = UnitTest;
+			productName = UnitTest;
+			productReference = D320D2961F2CBFF40022A341 /* UnitTest.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -92,6 +323,11 @@
 				ORGANIZATIONNAME = slingthor;
 				TargetAttributes = {
 					D320D27D1F2CAC500022A341 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 8UJHUQ32TC;
+						ProvisioningStyle = Automatic;
+					};
+					D320D2951F2CBFF40022A341 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 8UJHUQ32TC;
 						ProvisioningStyle = Automatic;
@@ -111,16 +347,77 @@
 			projectRoot = "";
 			targets = (
 				D320D27D1F2CAC500022A341 /* Algorithms */,
+				D320D2951F2CBFF40022A341 /* UnitTest */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D320D2941F2CBFF40022A341 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		D320D27A1F2CAC500022A341 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D320D2E21F2E78970022A341 /* BinarySearch.m in Sources */,
+				D320D2C21F2E0FEE0022A341 /* FirstNonRepeatedCharacter.m in Sources */,
+				D320D2A41F2CCBD50022A341 /* Stack.m in Sources */,
+				D320D3091F3103290022A341 /* MergeTwoLists.m in Sources */,
+				D320D28B1F2CB1240022A341 /* LinkedList.m in Sources */,
+				D320D28E1F2CB1510022A341 /* LinkedListElem.m in Sources */,
+				D320D2D61F2E5AD40022A341 /* StringToInteger.m in Sources */,
+				D320D2C61F2E1D810022A341 /* BoxedUniChar.m in Sources */,
+				D320D3021F30C5930022A341 /* QuickSort.m in Sources */,
 				D320D2821F2CAC500022A341 /* main.m in Sources */,
+				D320D2DC1F2E76950022A341 /* Factorial.m in Sources */,
+				D320D2B11F2CF8360022A341 /* BinaryTree.m in Sources */,
+				D320D2B41F2CF8480022A341 /* BinaryTreeNode.m in Sources */,
+				D320D2E81F2FB6170022A341 /* StringPermutations.m in Sources */,
+				D320D2D01F2E374D0022A341 /* RemoveFromString.m in Sources */,
+				D320D2A91F2CD0510022A341 /* StackElem.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D320D2921F2CBFF40022A341 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D320D2E31F2E78970022A341 /* BinarySearch.m in Sources */,
+				D320D2F61F2FBD980022A341 /* StringPermutationTest.m in Sources */,
+				D320D3031F30C5930022A341 /* QuickSort.m in Sources */,
+				D320D3061F30F1BF0022A341 /* QuickSortTest.m in Sources */,
+				D320D2AD1F2CDCAA0022A341 /* StackTest.m in Sources */,
+				D320D2DD1F2E76950022A341 /* Factorial.m in Sources */,
+				D320D29E1F2CBFFB0022A341 /* LinkedListTest.m in Sources */,
+				D320D2E51F2E7B2C0022A341 /* BinarySearchTest.m in Sources */,
+				D320D2D31F2E3D7F0022A341 /* TestRemoveFromString.m in Sources */,
+				D320D2DF1F2E77100022A341 /* FactorialTest.m in Sources */,
+				D320D2C31F2E0FEE0022A341 /* FirstNonRepeatedCharacter.m in Sources */,
+				D320D2D71F2E5AD40022A341 /* StringToInteger.m in Sources */,
+				D320D2CA1F2E2DFC0022A341 /* FirstNonRepeatedCharachterTest.m in Sources */,
+				D320D2AA1F2CD0510022A341 /* StackElem.m in Sources */,
+				D320D29F1F2CC4150022A341 /* LinkedListElem.m in Sources */,
+				D320D30C1F3103F70022A341 /* MergeTwoListsTest.m in Sources */,
+				D320D2D91F2E5D3E0022A341 /* StringToIntegerTest.m in Sources */,
+				D320D2D11F2E374D0022A341 /* RemoveFromString.m in Sources */,
+				D320D2B61F2D2B110022A341 /* BinaryTreeNode.m in Sources */,
+				D320D2B51F2D2B0D0022A341 /* BinaryTree.m in Sources */,
+				D320D2A01F2CC41D0022A341 /* LinkedList.m in Sources */,
+				D320D2A51F2CCBD50022A341 /* Stack.m in Sources */,
+				D320D2B91F2D2BE40022A341 /* BinaryTreeTest.m in Sources */,
+				D320D30A1F3103290022A341 /* MergeTwoLists.m in Sources */,
+				D320D2C71F2E1D810022A341 /* BoxedUniChar.m in Sources */,
+				D320D2FF1F30BA220022A341 /* TestStringPermutation.m in Sources */,
+				D320D2991F2CBFF40022A341 /* UnitTest.m in Sources */,
+				D320D2E91F2FB6170022A341 /* StringPermutations.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -232,6 +529,30 @@
 			};
 			name = Release;
 		};
+		D320D29C1F2CBFF40022A341 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 8UJHUQ32TC;
+				INFOPLIST_FILE = UnitTest/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.UnitTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D320D29D1F2CBFF40022A341 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 8UJHUQ32TC;
+				INFOPLIST_FILE = UnitTest/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.UnitTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -251,6 +572,16 @@
 				D320D2871F2CAC500022A341 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D320D29B1F2CBFF40022A341 /* Build configuration list for PBXNativeTarget "UnitTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D320D29C1F2CBFF40022A341 /* Debug */,
+				D320D29D1F2CBFF40022A341 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
